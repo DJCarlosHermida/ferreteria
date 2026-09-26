@@ -1,8 +1,8 @@
 import type { CategoryId, Product } from "../types"
 
 export const BRAND = {
-  name: "NOMBRE",
-  tagline: "SLOGAN",
+  name: "Ferretería",
+  tagline: "Todo para la obra y el hogar",
   type: "Ferretería",
   zone: "Barrio de ejemplo",
   hoursLabel: "Lunes a viernes · 8:00 a 18:00 hs · Sábados 8:00 a 13:00 hs",
